@@ -1,0 +1,5 @@
+{
+  "name": "Easy healthcare Patient Portal",
+  "description": "A streamlined, aesthetic patient login portal featuring a Gemini-powered virtual health assistant for pre-login support and general inquiries.",
+  "requestFramePermissions": []
+}
